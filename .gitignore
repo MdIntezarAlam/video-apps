@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -33,6 +34,8 @@ yarn-error.log*
 >>>>>>> 21c4db8a11dbf6d3669ea8387a0a39585a90105f
 =======
 >>>>>>> f395bb11de06b66b74b5e0b3ba8d63744146794c
+=======
+>>>>>>> a86dcdbe374dddf38ff382856806393473ca9453
 # Logs
 logs
 *.log
@@ -140,6 +143,7 @@ dist
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> ef1273c340ce3232398dba80f3d367d5e504d198
 =======
 >>>>>>> 21c4db8a11dbf6d3669ea8387a0a39585a90105f
@@ -147,3 +151,5 @@ dist
 >>>>>>> 21c4db8a11dbf6d3669ea8387a0a39585a90105f
 =======
 >>>>>>> f395bb11de06b66b74b5e0b3ba8d63744146794c
+=======
+>>>>>>> a86dcdbe374dddf38ff382856806393473ca9453
